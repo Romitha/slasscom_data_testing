@@ -1,10 +1,10 @@
 import unittest
 
-from Test.DBTest import DBTest
-from Test.ParametrizedTestCase import ParametrizedTestCase
+from test.DBTest import DBTest
+from test.ParametrizedTestCase import ParametrizedTestCase
 import os
 
-from Test.SparkTest import SparkTest
+from test.SparkTest import SparkTest
 
 
 # def suite():
